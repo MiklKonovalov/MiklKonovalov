@@ -1,4 +1,7 @@
-### Hi there 👋
+### Привет! Я iOS разработчик на Swift 👋
+
+Учебный проект "Трекер привычек": https://github.com/MiklKonovalov/my-habbit
+Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
 
 <!--
 **MiklKonovalov/MiklKonovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
