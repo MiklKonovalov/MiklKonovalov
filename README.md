@@ -3,6 +3,8 @@
 - Учебный проект "Трекер привычек": https://github.com/MiklKonovalov/my-habbit
 - Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
 
+## Сертификаты Нетологии
+- Git: 
 <!--
 **MiklKonovalov/MiklKonovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
