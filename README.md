@@ -4,7 +4,7 @@
 - Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
 
 ## Сертификаты Нетологии
-- Git: 
+- Git: https://github.com/MiklKonovalov/sertificate/files/8706424/certificate.3.pdf
 <!--
 **MiklKonovalov/MiklKonovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
