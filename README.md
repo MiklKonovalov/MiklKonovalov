@@ -5,6 +5,7 @@
 
 ## Сертификаты Нетологии
 - Git: https://github.com/MiklKonovalov/sertificate/files/8706424/certificate.3.pdf
+- iOS - основы Swift adwanced: https://github.com/MiklKonovalov/MiklKonovalov/files/8708379/certificate.4.pdf
 - iOS - продвинутая разработка: https://github.com/MiklKonovalov/sertificate/files/8708317/certificate.pdf
 - iOS - промышленная разработка: https://github.com/MiklKonovalov/MiklKonovalov/files/8708329/certificate.1.pdf
 <!--
