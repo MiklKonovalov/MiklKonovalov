@@ -5,6 +5,7 @@
 
 ## Сертификаты Нетологии
 - Git: https://github.com/MiklKonovalov/sertificate/files/8706424/certificate.3.pdf
+- iOS - продвинутая разработка: https://github.com/MiklKonovalov/sertificate/files/8708317/certificate.pdf
 <!--
 **MiklKonovalov/MiklKonovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
