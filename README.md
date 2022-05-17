@@ -2,12 +2,16 @@
 
 - Учебный проект "Трекер привычек": https://github.com/MiklKonovalov/my-habbit
 - Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
+- Тестовое задание: 
 
 ## Сертификаты Нетологии
 - Git: https://github.com/MiklKonovalov/sertificate/files/8706424/certificate.3.pdf
 - iOS - основы Swift adwanced: https://github.com/MiklKonovalov/MiklKonovalov/files/8708379/certificate.4.pdf
 - iOS - продвинутая разработка: https://github.com/MiklKonovalov/sertificate/files/8708317/certificate.pdf
 - iOS - промышленная разработка: https://github.com/MiklKonovalov/MiklKonovalov/files/8708329/certificate.1.pdf
+
+
+
 <!--
 **MiklKonovalov/MiklKonovalov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
