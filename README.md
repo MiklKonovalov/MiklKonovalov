@@ -3,6 +3,7 @@
 - Учебный проект "Трекер привычек": https://github.com/MiklKonovalov/my-habbit
 - Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
 - Тестовое задание: https://github.com/MiklKonovalov/unsplash_photo
+- Тестовое задание: https://github.com/MiklKonovalov/pryaniki/tree/master
 
 ## Сертификаты Нетологии
 - Git: https://github.com/MiklKonovalov/sertificate/files/8706424/certificate.3.pdf
@@ -11,7 +12,9 @@
 - iOS - промышленная разработка: https://github.com/MiklKonovalov/MiklKonovalov/files/8708329/certificate.1.pdf
 
 ## Дополнительно:
-- Знакомство со SwiftUI: 
+- Знакомство со SwiftUI: https://github.com/MiklKonovalov/swiftui
+- Работа с локацией: https://github.com/MiklKonovalov/adv-location
+- Работа с видео и аудио: https://github.com/MiklKonovalov/videoaudio
 
 
 <!--
