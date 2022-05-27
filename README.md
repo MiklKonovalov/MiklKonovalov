@@ -10,6 +10,8 @@
 - iOS - продвинутая разработка: https://github.com/MiklKonovalov/sertificate/files/8708317/certificate.pdf
 - iOS - промышленная разработка: https://github.com/MiklKonovalov/MiklKonovalov/files/8708329/certificate.1.pdf
 
+## Дополнительно:
+- Знакомство со SwiftUI: 
 
 
 <!--
