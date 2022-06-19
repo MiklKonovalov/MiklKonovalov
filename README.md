@@ -1,5 +1,6 @@
 ### Привет! Я iOS разработчик на Swift 👋
 
+- Тестовое задание для компании Wildberries: https://github.com/MiklKonovalov/Routes
 - Учебный проект "Трекер привычек": https://github.com/MiklKonovalov/my-habbit
 - Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
 - Тестовое задание: https://github.com/MiklKonovalov/unsplash_photo
