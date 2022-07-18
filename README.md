@@ -5,6 +5,7 @@
 - Учебный проект "Прогноз погоды": https://github.com/MiklKonovalov/weather-tracker
 - Тестовое задание: https://github.com/MiklKonovalov/unsplash_photo
 - Тестовое задание: https://github.com/MiklKonovalov/pryaniki/tree/master
+- Тестовое задание: https://github.com/MiklKonovalov/fibonacci-array
 
 ## Сертификаты Нетологии
 - Git: https://github.com/MiklKonovalov/sertificate/files/8706424/certificate.3.pdf
